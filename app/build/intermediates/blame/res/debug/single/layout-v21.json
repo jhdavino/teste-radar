@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/josehenrique/.android/build-cache/a99ffb857c8211438c9a4e20ae2b0b5499b9f1f3/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/layout-v21/notification_action.xml"
+    }
+]

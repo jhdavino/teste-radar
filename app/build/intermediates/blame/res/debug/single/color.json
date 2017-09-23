@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/josehenrique/.android/build-cache/07b6c4805ea84a3911c23f84d5fb838edc92498f/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/josehenrique/.android/build-cache/97d695a3e303e5b002595c26718b934efe3fe2f3/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/josehenrique/.android/build-cache/07b6c4805ea84a3911c23f84d5fb838edc92498f/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/josehenrique/.android/build-cache/97d695a3e303e5b002595c26718b934efe3fe2f3/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]

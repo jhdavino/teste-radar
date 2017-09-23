@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

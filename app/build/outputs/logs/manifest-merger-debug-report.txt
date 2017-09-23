@@ -1,0 +1,529 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:5:5-97
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:5:22-95
+uses-permission#android.permission.INTERNET
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/josehenrique/.android/build-cache/f6392a8a002bd0ff13dc06624997cdabcb31102a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/josehenrique/.android/build-cache/b436d33c6c6ecbf1359ad0e98d2fd2e41977e2cd/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/josehenrique/.android/build-cache/f3d514b15dc75fd83fee60e86ad16221dcdc2301/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/josehenrique/.android/build-cache/13eb328760b943f28b1d0856deaee643b7d7416a/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/d518abfb7e59d0da096f8beb3a0d8c83417c151e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/3a4a18b253eb6688070f1a26fda859b1530eff3d/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/josehenrique/.android/build-cache/d1392c7e37778db3bd55ee0730a88b88e8eec7de/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:12:5-64:19
+MERGED from [com.android.support:design:25.3.1] /Users/josehenrique/.android/build-cache/97d695a3e303e5b002595c26718b934efe3fe2f3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/josehenrique/.android/build-cache/2d240c5423caf40b2dc753a91822b9fdb9b73438/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/josehenrique/.android/build-cache/fd28e9009a80f7da6548144f2d65549958c9b763/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/josehenrique/.android/build-cache/f6392a8a002bd0ff13dc06624997cdabcb31102a/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/josehenrique/.android/build-cache/3a861d7edabebbdfaba120dab6282efcaf476f77/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/josehenrique/.android/build-cache/4bb05a1249dd0b6e810b412a8ca03cbef89d1d54/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/josehenrique/.android/build-cache/71d012ffd31fe3d4d360e5e3d3b1d2eda17b9b90/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/josehenrique/.android/build-cache/9b738081eeab6578969abbfb6d036be58d49feeb/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/josehenrique/.android/build-cache/45df664ab7e8ff840a1c1c8f5713516c4880918c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/josehenrique/.android/build-cache/415fb86c36c0a3a04fd0d2a15ffb4f0859a325fe/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/josehenrique/.android/build-cache/febfadb91926bd9c6198bf8c6feb90393f95a608/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/josehenrique/.android/build-cache/b436d33c6c6ecbf1359ad0e98d2fd2e41977e2cd/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/josehenrique/.android/build-cache/1d181c82ab826210bc1892e35a90a5b550ac07f6/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/josehenrique/.android/build-cache/024ec83b8331e08def061bc59b25a8f0395b891f/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/josehenrique/.android/build-cache/5e930acc7db1ce87d910045cb3861f44b341ef9c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/josehenrique/.android/build-cache/a7218be276886b2db347f2f9829b0fd7ff38e281/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/josehenrique/.android/build-cache/f27534bd94a985f269b78e807935ed87190bcf20/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/josehenrique/.android/build-cache/cd5648cda07840391ca5ed48c9c3d50ebffb0132/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/josehenrique/.android/build-cache/f3d514b15dc75fd83fee60e86ad16221dcdc2301/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/josehenrique/.android/build-cache/29f2695e859ae3afbb0e63f4bbc860e076cc9cd6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/josehenrique/.android/build-cache/13eb328760b943f28b1d0856deaee643b7d7416a/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/josehenrique/.android/build-cache/e2af8c47382ebdc64544a65ddf5bdd3f191ac30d/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/josehenrique/.android/build-cache/e3ac8305df9a896728bda7bd40d6c27a1796835a/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/josehenrique/.android/build-cache/829f165ba221f1844843b6bdfe42c4d50e56ad63/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/josehenrique/.android/build-cache/a99ffb857c8211438c9a4e20ae2b0b5499b9f1f3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/josehenrique/.android/build-cache/f90195e646dd21f175a9b89bcf2d89205b846b7b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/josehenrique/.android/build-cache/3989e463373f73c2ca09fab1062760793b9a5524/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/d518abfb7e59d0da096f8beb3a0d8c83417c151e/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/josehenrique/.android/build-cache/05987c0445d4e1babe12d4ee3d302aa14d408258/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/josehenrique/.android/build-cache/ee661115cb1aca75e30ab219f21be0f69a3556a9/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/3a4a18b253eb6688070f1a26fda859b1530eff3d/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/josehenrique/.android/build-cache/0d16a9240d5e0c7437d3199911ec6c48808d8dcf/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/josehenrique/.android/build-cache/8d2635fabacc22c8f28b1fe5d0ef680c89da1e39/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/josehenrique/.android/build-cache/fa08e9bc1e12b646c3fb18e90775c0b02000b62d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/josehenrique/.android/build-cache/d1392c7e37778db3bd55ee0730a88b88e8eec7de/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/josehenrique/.android/build-cache/53b986fe3aa45ab9c78667e88549369a3c5715f7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/josehenrique/.android/build-cache/1e6c07c325df73310db4b0583692c67edea51538/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/josehenrique/.android/build-cache/afe0c9c586edde01a46100fd9bdc5228923a9a2e/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/josehenrique/.android/build-cache/8bbd342ee35eac1f09d88b3f36793c9130ce3504/output/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/josehenrique/.android/build-cache/88facf5acd73bac595433c7cbb306c7a883f114f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/josehenrique/.android/build-cache/2cf46a8f57d8419b7bcc13d8f8565241831cf5c9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/josehenrique/.android/build-cache/3095f2b72b54d4612e1067fff03a83a1b33d5c97/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/josehenrique/.android/build-cache/8021a85279575452637e41d60edccf89a549d938/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/josehenrique/.android/build-cache/d2c4ca7d8db2740322b180b9f1a50928190aaf73/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/josehenrique/.android/build-cache/a3150eba8071816f4bad515a37289bee6cd100dd/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/josehenrique/.android/build-cache/d432ae64554bc2a2d3f93a44f1680c5aee223b98/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/josehenrique/.android/build-cache/04d1f68bad7dee1393166cfd4808100f5747f744/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /Users/josehenrique/.android/build-cache/4c7af7498d6c0a6f2cd2b6fd2866837be6eb5375/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/josehenrique/.android/build-cache/33f3df03ecf982b76c85d83dd3b9efb72b4ef06b/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:17:9-54
+	android:allowBackup
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:13:9-45
+activity#br.com.jhmd.radar.views.LoginActivity
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:22:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:28:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:33:9-35:55
+	android:value
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:34:13-58
+activity#com.facebook.FacebookActivity
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:37:9-40:48
+MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:40:13-45
+	android:configChanges
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:39:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:38:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:41:9-52:20
+	android:exported
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:42:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:44:13-51:29
+action#android.intent.action.VIEW
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:47:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:48:17-78
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:48:27-75
+data
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:50:17-75
+	android:scheme
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:50:23-72
+activity#br.com.jhmd.radar.views.MainActivity
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:55:9-56
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:55:19-53
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:57:9-59:57
+	android:value
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:59:13-54
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:58:13-58
+meta-data#com.google.android.gms.version
+ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:61:9-62:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/josehenrique/.android/build-cache/afe0c9c586edde01a46100fd9bdc5228923a9a2e/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:62:13-66
+	android:name
+		ADDED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml:61:20-65
+uses-sdk
+INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/josehenrique/.android/build-cache/97d695a3e303e5b002595c26718b934efe3fe2f3/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/josehenrique/.android/build-cache/5e06ec0db4f46bdea7e669a8597332873b3775b4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/josehenrique/.android/build-cache/2d240c5423caf40b2dc753a91822b9fdb9b73438/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/josehenrique/.android/build-cache/fd28e9009a80f7da6548144f2d65549958c9b763/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/josehenrique/.android/build-cache/787a2b1564b1c8200824fd95a8c2711481e4c803/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/josehenrique/.android/build-cache/f6392a8a002bd0ff13dc06624997cdabcb31102a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/josehenrique/.android/build-cache/e8614aa3ee649b3a32a361ac3fd6e3979a395294/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/josehenrique/.android/build-cache/d64ea3cdfd78bce2f08274f7e162bef8a8ac4580/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/josehenrique/.android/build-cache/3a861d7edabebbdfaba120dab6282efcaf476f77/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/josehenrique/.android/build-cache/4bb05a1249dd0b6e810b412a8ca03cbef89d1d54/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/josehenrique/.android/build-cache/71d012ffd31fe3d4d360e5e3d3b1d2eda17b9b90/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/josehenrique/.android/build-cache/9b738081eeab6578969abbfb6d036be58d49feeb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/josehenrique/.android/build-cache/45df664ab7e8ff840a1c1c8f5713516c4880918c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/josehenrique/.android/build-cache/415fb86c36c0a3a04fd0d2a15ffb4f0859a325fe/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/josehenrique/.android/build-cache/febfadb91926bd9c6198bf8c6feb90393f95a608/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/josehenrique/.android/build-cache/b436d33c6c6ecbf1359ad0e98d2fd2e41977e2cd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/josehenrique/.android/build-cache/1d181c82ab826210bc1892e35a90a5b550ac07f6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/josehenrique/.android/build-cache/99824f17c39d133f8af395a8ba41c326a43d4dd1/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/josehenrique/.android/build-cache/2b06913cc60d36c9f63acf1d3d613d5258c9146e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/josehenrique/.android/build-cache/024ec83b8331e08def061bc59b25a8f0395b891f/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/josehenrique/.android/build-cache/50a9c5d6b76c674c16aac76024da9d4479a40776/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/josehenrique/.android/build-cache/9bcd35054f1993800e5d4dc6295a00ddbff36009/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/josehenrique/.android/build-cache/5e930acc7db1ce87d910045cb3861f44b341ef9c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/josehenrique/.android/build-cache/a7218be276886b2db347f2f9829b0fd7ff38e281/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/josehenrique/.android/build-cache/f27534bd94a985f269b78e807935ed87190bcf20/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/josehenrique/.android/build-cache/cd5648cda07840391ca5ed48c9c3d50ebffb0132/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/josehenrique/.android/build-cache/f3d514b15dc75fd83fee60e86ad16221dcdc2301/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/josehenrique/.android/build-cache/29f2695e859ae3afbb0e63f4bbc860e076cc9cd6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/josehenrique/.android/build-cache/13eb328760b943f28b1d0856deaee643b7d7416a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/josehenrique/.android/build-cache/59000b8e28291ca8eef6d7e2ee89aa92c165969e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/josehenrique/.android/build-cache/e2af8c47382ebdc64544a65ddf5bdd3f191ac30d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/josehenrique/.android/build-cache/e3ac8305df9a896728bda7bd40d6c27a1796835a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/josehenrique/.android/build-cache/829f165ba221f1844843b6bdfe42c4d50e56ad63/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/josehenrique/.android/build-cache/a99ffb857c8211438c9a4e20ae2b0b5499b9f1f3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/josehenrique/.android/build-cache/f90195e646dd21f175a9b89bcf2d89205b846b7b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/josehenrique/.android/build-cache/3989e463373f73c2ca09fab1062760793b9a5524/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/josehenrique/.android/build-cache/7b9480d82b4f04ddc4ee0cea047b1558d9bf66d5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/d518abfb7e59d0da096f8beb3a0d8c83417c151e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/josehenrique/.android/build-cache/05987c0445d4e1babe12d4ee3d302aa14d408258/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/josehenrique/.android/build-cache/ee661115cb1aca75e30ab219f21be0f69a3556a9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/3a4a18b253eb6688070f1a26fda859b1530eff3d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/josehenrique/.android/build-cache/0d16a9240d5e0c7437d3199911ec6c48808d8dcf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/josehenrique/.android/build-cache/8d2635fabacc22c8f28b1fe5d0ef680c89da1e39/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/josehenrique/.android/build-cache/07b6c4805ea84a3911c23f84d5fb838edc92498f/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/josehenrique/.android/build-cache/fa08e9bc1e12b646c3fb18e90775c0b02000b62d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/josehenrique/.android/build-cache/d1392c7e37778db3bd55ee0730a88b88e8eec7de/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/josehenrique/.android/build-cache/53b986fe3aa45ab9c78667e88549369a3c5715f7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/josehenrique/.android/build-cache/1e6c07c325df73310db4b0583692c67edea51538/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/josehenrique/.android/build-cache/afe0c9c586edde01a46100fd9bdc5228923a9a2e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/josehenrique/.android/build-cache/8bbd342ee35eac1f09d88b3f36793c9130ce3504/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/josehenrique/.android/build-cache/88facf5acd73bac595433c7cbb306c7a883f114f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/josehenrique/.android/build-cache/2cf46a8f57d8419b7bcc13d8f8565241831cf5c9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/josehenrique/.android/build-cache/3095f2b72b54d4612e1067fff03a83a1b33d5c97/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/josehenrique/.android/build-cache/8021a85279575452637e41d60edccf89a549d938/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/josehenrique/.android/build-cache/d2c4ca7d8db2740322b180b9f1a50928190aaf73/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/josehenrique/.android/build-cache/a3150eba8071816f4bad515a37289bee6cd100dd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/josehenrique/.android/build-cache/d432ae64554bc2a2d3f93a44f1680c5aee223b98/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/josehenrique/.android/build-cache/04d1f68bad7dee1393166cfd4808100f5747f744/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /Users/josehenrique/.android/build-cache/4c7af7498d6c0a6f2cd2b6fd2866837be6eb5375/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.3.1] /Users/josehenrique/.android/build-cache/33f3df03ecf982b76c85d83dd3b9efb72b4ef06b/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/josehenrique/.android/build-cache/97d695a3e303e5b002595c26718b934efe3fe2f3/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/josehenrique/Downloads/Radar/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/josehenrique/.android/build-cache/97d695a3e303e5b002595c26718b934efe3fe2f3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/josehenrique/.android/build-cache/5e06ec0db4f46bdea7e669a8597332873b3775b4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/josehenrique/.android/build-cache/2d240c5423caf40b2dc753a91822b9fdb9b73438/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/josehenrique/.android/build-cache/4504c012b3318549f7908e8525d155c10e6cd61f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/josehenrique/.android/build-cache/88facf5acd73bac595433c7cbb306c7a883f114f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/josehenrique/.android/build-cache/2cf46a8f57d8419b7bcc13d8f8565241831cf5c9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/josehenrique/.android/build-cache/3095f2b72b54d4612e1067fff03a83a1b33d5c97/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/josehenrique/.android/build-cache/8021a85279575452637e41d60edccf89a549d938/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/josehenrique/.android/build-cache/d2c4ca7d8db2740322b180b9f1a50928190aaf73/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/josehenrique/.android/build-cache/a3150eba8071816f4bad515a37289bee6cd100dd/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/josehenrique/.android/build-cache/d432ae64554bc2a2d3f93a44f1680c5aee223b98/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/josehenrique/.android/build-cache/04d1f68bad7dee1393166cfd4808100f5747f744/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /Users/josehenrique/.android/build-cache/4c7af7498d6c0a6f2cd2b6fd2866837be6eb5375/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/josehenrique/.android/build-cache/33f3df03ecf982b76c85d83dd3b9efb72b4ef06b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/josehenrique/.android/build-cache/97d695a3e303e5b002595c26718b934efe3fe2f3/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/josehenrique/.android/build-cache/97d695a3e303e5b002595c26718b934efe3fe2f3/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/josehenrique/.android/build-cache/f6392a8a002bd0ff13dc06624997cdabcb31102a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/josehenrique/.android/build-cache/e3ac8305df9a896728bda7bd40d6c27a1796835a/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/d518abfb7e59d0da096f8beb3a0d8c83417c151e/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/3a4a18b253eb6688070f1a26fda859b1530eff3d/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/josehenrique/.android/build-cache/d1392c7e37778db3bd55ee0730a88b88e8eec7de/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/josehenrique/.android/build-cache/7cfe8f786482b871d01733a278227f34ce4036c6/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/josehenrique/.android/build-cache/f6392a8a002bd0ff13dc06624997cdabcb31102a/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/d518abfb7e59d0da096f8beb3a0d8c83417c151e/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/3a4a18b253eb6688070f1a26fda859b1530eff3d/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/josehenrique/.android/build-cache/f6392a8a002bd0ff13dc06624997cdabcb31102a/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/josehenrique/.android/build-cache/98ee20c68813eacf2b24cebb6a1f6f54b6e22e8c/output/AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/josehenrique/.android/build-cache/0ef13d6e4554725b14a2063f3b391064ce5bf525/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/josehenrique/.android/build-cache/3a861d7edabebbdfaba120dab6282efcaf476f77/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/josehenrique/.android/build-cache/3a861d7edabebbdfaba120dab6282efcaf476f77/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/josehenrique/.android/build-cache/3a861d7edabebbdfaba120dab6282efcaf476f77/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/josehenrique/.android/build-cache/3a861d7edabebbdfaba120dab6282efcaf476f77/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/josehenrique/.android/build-cache/3a861d7edabebbdfaba120dab6282efcaf476f77/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/josehenrique/.android/build-cache/3a861d7edabebbdfaba120dab6282efcaf476f77/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/josehenrique/.android/build-cache/0088e3854d9aa8191b252f482be31c3b9646f09b/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/josehenrique/.android/build-cache/f3d514b15dc75fd83fee60e86ad16221dcdc2301/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/josehenrique/.android/build-cache/13eb328760b943f28b1d0856deaee643b7d7416a/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/josehenrique/.android/build-cache/f3d514b15dc75fd83fee60e86ad16221dcdc2301/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/josehenrique/.android/build-cache/99bac0fc398a701f817a3397753696a06c451a5b/output/AndroidManifest.xml:25:19-93
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/d518abfb7e59d0da096f8beb3a0d8c83417c151e/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/josehenrique/.android/build-cache/d518abfb7e59d0da096f8beb3a0d8c83417c151e/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/josehenrique/.android/build-cache/6f3e3ef58e0aff3580150050ff31405c5807e8ce/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/josehenrique/.android/build-cache/9f29fa56f75a401cfa6c03dcc984a7a759b88ea2/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/josehenrique/.android/build-cache/05987c0445d4e1babe12d4ee3d302aa14d408258/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/josehenrique/.android/build-cache/05987c0445d4e1babe12d4ee3d302aa14d408258/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/josehenrique/.android/build-cache/05987c0445d4e1babe12d4ee3d302aa14d408258/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/josehenrique/.android/build-cache/05987c0445d4e1babe12d4ee3d302aa14d408258/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/josehenrique/.android/build-cache/05987c0445d4e1babe12d4ee3d302aa14d408258/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/josehenrique/.android/build-cache/d1392c7e37778db3bd55ee0730a88b88e8eec7de/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/josehenrique/.android/build-cache/d1392c7e37778db3bd55ee0730a88b88e8eec7de/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/josehenrique/.android/build-cache/d1392c7e37778db3bd55ee0730a88b88e8eec7de/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/josehenrique/.android/build-cache/1a454c39f9c5412b566fc30dcc09c6eb81192021/output/AndroidManifest.xml:19:19-85
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] /Users/josehenrique/.android/build-cache/2cc55ac0db40ebbeb13d20b779c7fa9d304b3fb6/output/AndroidManifest.xml:45:13-70

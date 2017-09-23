@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/menu/activity_main_menu_drawer.xml",
+        "source": "/Users/josehenrique/Downloads/Radar/app/src/main/res/menu/activity_main_menu_drawer.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/menu/activity_main_menu_actionbar.xml",
+        "source": "/Users/josehenrique/Downloads/Radar/app/src/main/res/menu/activity_main_menu_actionbar.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/menu/navigation_bottom.xml",
+        "source": "/Users/josehenrique/Downloads/Radar/app/src/main/res/menu/navigation_bottom.xml"
+    }
+]

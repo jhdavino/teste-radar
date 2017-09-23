@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/josehenrique/.android/build-cache/71d012ffd31fe3d4d360e5e3d3b1d2eda17b9b90/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/josehenrique/Downloads/Radar/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/josehenrique/.android/build-cache/71d012ffd31fe3d4d360e5e3d3b1d2eda17b9b90/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]
